@@ -1,1 +1,1 @@
-# onboarding
+# Introduction to GitHub
